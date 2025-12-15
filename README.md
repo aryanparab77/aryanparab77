@@ -47,7 +47,7 @@ I regularly practice basic problems on arrays, strings, and hashing, and try to 
 
 ### Links
 GitHub: https://github.com/aryanparab77  
-LinkedIn: (add when ready)
+LinkedIn: https://www.linkedin.com/in/aryanparab/
 
 
 <!--
